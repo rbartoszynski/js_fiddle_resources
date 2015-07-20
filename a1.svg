@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="475px" height="270px" viewBox="0 0 475 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M59.1914077,21.6640624 C144.195314,-44.1914063 462.906259,67.1367155 462.906259,67.1367155 C462.906259,67.1367155 480.347714,116.549736 472.332037,140.546879 C457.543026,184.821872 403.917969,268.640625 403.917969,268.640625 C403.917969,268.640625 267.575527,267.870464 197.718744,257.613286 C135.639329,248.49807 8.10937518,210.523442 8.10937518,210.523442 C8.10937518,210.523442 -25.8124983,87.5195312 59.1914077,21.6640624 Z" id="Path-1" stroke="#979797" sketch:type="MSShapeGroup"></path>
+        <text id="PLACEHOLDER-1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="53" y="58">PLACEHOLDER 1</tspan>
+        </text>
+        <text id="PLACEHOLDER-2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="53" y="132">PLACEHOLDER 2</tspan>
+        </text>
+        <text id="PLACEHOLDER-3-Copy" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="53" y="206">PLACEHOLDER 3</tspan>
+        </text>
+    </g>
+</svg>
